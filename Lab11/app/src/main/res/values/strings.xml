@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab11</string>
+    <string name="getinf">Get Info</string>
+    <string name="blank">0</string>
+    <string name="def">Brak danych</string>
+</resources>
